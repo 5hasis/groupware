@@ -23,7 +23,9 @@
 <br>
 
 ## DB 설계 (ERD)
-![image](https://user-images.githubusercontent.com/80090062/134620282-22846ece-60ac-4dd1-998f-8b5bb983cf96.png)
+![image](https://user-images.githubusercontent.com/80090062/134620815-749bfc9d-bf60-4cdc-991e-f338f6f26f59.png)
+
+
 
 
 
